@@ -1,12 +1,12 @@
-# ArachneFS
-ArachneFS is a private highly available distributed file system with modular external storage
+# arachnefs
+arachnefs is a private highly available distributed file system with modular external storage
 
 ## License
 
-ArachneFS is distributed under the GNU General Public License Version 3.0 as described below.
+arachnefs is distributed under the GNU General Public License Version 3.0 as described below.
 
 ```
-ArachneFS, private highly available file system
+arachnefs, private highly available file system
 Copyright (C) 2018 Kimon Kontosis http://kkonsoft.com
 
 This program is free software: you can redistribute it and/or modify
