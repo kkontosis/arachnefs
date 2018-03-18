@@ -1,5 +1,5 @@
 # arachnefs
-arachnefs is a private highly available distributed file system with modular external storage
+arachnefs is a highly available distributed file system for private data with modular external storage
 
 ## License
 
