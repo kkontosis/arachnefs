@@ -1,0 +1,7 @@
+*.o
+*~
+dub.selections.json
+.dub
+*.sublime-project
+*.sublime-workspace
+

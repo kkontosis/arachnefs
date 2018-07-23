@@ -1,0 +1,11 @@
+{
+  "name": "arachnefs",
+  "description": "...",
+  "authors": ["Kimon Kontosis"],
+  "homepage": "https://github.com/kkontosis/arachnefs",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "vibe-d": "~>0.7.23",
+    "string-transform-d": "~>1.0.0"
+  }
+}
