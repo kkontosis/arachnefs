@@ -1,18 +1,18 @@
 # estruct
 
-- single event in affected directory
+* single event in affected directory
  - file data event body
  - filename meta event header
  - filename meta autoincedtimestamp
  - filename meta crcitemhash
-- code I propagated parent dir event in same level as dir name up to root dir
--- filename meta autoincedtimestamp
--- filename meta crcdirhash
--- ? peer id
-- code i only in root dir lazy with grace time and during login logout one per store
--- filename meta autoincedtimestamp
--- filename meta crcdirhash
--- store id
+* code I propagated parent dir event in same level as dir name up to root dir
+ - filename meta autoincedtimestamp
+ - filename meta crcdirhash
+ - ? peer id
+* code i only in root dir lazy with grace time and during login logout one per store
+ - filename meta autoincedtimestamp
+ - filename meta crcdirhash
+ - store id
 
 ## deletion eligibility
 
