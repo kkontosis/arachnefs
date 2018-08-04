@@ -1,10 +1,10 @@
 # estruct
 
 - single event in affected directory
--- file data event body
--- filename meta event header
--- filename meta autoincedtimestamp
--- filename meta crcitemhash
+ - file data event body
+ - filename meta event header
+ - filename meta autoincedtimestamp
+ - filename meta crcitemhash
 - code I propagated parent dir event in same level as dir name up to root dir
 -- filename meta autoincedtimestamp
 -- filename meta crcdirhash
