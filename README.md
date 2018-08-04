@@ -27,7 +27,7 @@ Still, some may find spiders unappealing and we may use a different name if we c
 
 ## What is this?
 
-This section is a question and answer paragraph summarizing some of the sell points of this system, written in order to assert the necessity of existence of this file system. During this pseudodiscussion I am acting as a devil's advocate devaluing the project and creating responses. Before going into this paragraph, I should mention that the problem being addressed is a bit more complicated, as a problem, than what it seems to be in the section below and the overall appearance may be such that undersells this project the way I imagine it to be. Nonetheless, self doubt is very useful in this early stage of the project, and the decision to move on to the implementation has been made, unless something changes!
+This section is a question and answer paragraph summarizing some of the selling points of this system, written in order to assert the necessity of existence of this file system. During this pseudodiscussion I am acting as a devil's advocate devaluing the project and creating responses. Before going into this paragraph, I should mention that the problem being addressed is a bit more complicated, as a problem, than what it seems to be in the section below and the overall appearance may be such that undersells this project the way I imagine it to be. Nonetheless, self doubt is very useful in this early stage of the project, and the decision to move on to the implementation has been made, unless something changes!
 
 Arachnefs is meant to be the ultimate file system, or rather the ultimate file system middleware, for personal use.
 
