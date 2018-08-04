@@ -217,37 +217,11 @@ But they may not be there in the first version of the project:
 
 ## Roadmap
 
-The following **FAQ** answer's questions regarding the project's roadmap and timelines:
-
->> Q: When will this project begin its development?
-
-> A: ASAP. Most of the study, which is the lion's share of the work has already been done
-
->> Q: How many features will be included in the first version?
-
-> A: The first version will be cut as short as possible. The mechanism of the file system greatly relies on
-various optimizations. Even if some features exist, without optimizations, like the cache they may not be
-so appealing. Nonetheless, many parts of the file system are inherent to its mechanism so they can't be cut,
-and the plan is to have a useful version one.
-
->> Q: Any important features that might be cut?
-
-> A: Encryption may not be present, mainly because it can make debugging harder and because it is best well
-thought. Nonetheless, it is extremely straightforward. Most of the desired configurability may not make it
-to version one.
-
->> Q: How big is the timeline for this project?
-
-> A: Extremely small. This project is only created as a storage solution for my personal needs because
+This project is only created as a storage solution for my personal needs because
 I have found all existing solutions that I have considered so far to be **unsatisfactory** compared to
-what I would like to have.
+what I would like to have. It is uncertain how many features will be included in it...
 
->> Q: Will this project be ongoing?
-
-> A: Many secondary targets are described, however it is highly possible that this project will stop at version one.
-I have no ways of supporting this project and currently it only serves as a means to aiding my other projects.
-Hopefully someone else may benefit from it as well.
-
+Once a first version is created, it would be nice if the project could be ongoing. However it is highly possible that this project will stop at version one. I have no ways of supporting this project and the current bet is a useful implementation.
 
 ## License
 
