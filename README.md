@@ -67,7 +67,7 @@ The following **FAQ** is a **TL;DR** version of our description for what this is
 
 >> Q: Other projects do this as well
 
-> A: Almost, this allows local synchronization as well
+> A: Almost, this one is open source and it allows local synchronization as well
 
 >> Q: Is that all?
 
