@@ -1,5 +1,6 @@
 # arachnefs
-arachnefs is a locally based, highly available, distributed file system with modular external storage
+ArachneFS is a locally based, highly available, distributed file system with modular external storage intended to combine the pros of conventional storage and cloud storage to improve personal data storage.
+It relies on existing file systems, the external sources, which are formatted so that an instance of arachnefs is created, which is done by creating special files and directories in them. Those sources are then integrated into a single file system mounted on a user directory.
 
 | **arachne**  |   |  |
 |---:|---|---|
@@ -12,7 +13,7 @@ arachnefs is a locally based, highly available, distributed file system with mod
 This is a file system that is currently being designed.
 There is no code yet and this project is in its beginning.
 
-If you were looking for a usuable file system we are sorry.
+If you were looking for a usuable file system I am sorry.
 You are welcome to check again in the future to see
 how the development of this project goes.
 
@@ -20,21 +21,13 @@ how the development of this project goes.
 
 The name of this project may change.
 
-For now, the word arachne was chosen which means spider. I know spiders are disgusting little insects.
-But hey, you may also look at them with a funny eye. As long as they are not too large and they don't bite.
-
-Spiders have many legs and build a fabric called the spider's web.
-This has many similarities with our file system.
-While there is no prey in our case, other than data, to be caught, our file system's fabric is sticky and resilient,
-and needs excessive force to be destroyed.
-
-We consider our file system to be a very creative agent, like a spider and we consider that it creates
-something that is useful for, at least, itself, the spider being the center of its universe.
-
+For now, the word arachne was chosen which means spider. I know spiders are disgusting little insects but they show some similarities with our system (...).
 Still, some may find spiders unappealing and we may use a different name if we come up with a better one.
 
 
 ## What is this?
+
+This section is a question and answer paragraph summarizing some of the sell points of this system, written in order to assert the necessity of existence of this file system. During this pseudodiscussion I am acting as a devil's advocate devaluing the project and creating responses. Before going into this paragraph, I should mention that the problem being addressed is a bit more complicated, as a problem, than what it seems to be in the section below and the overall appearance may be such that undersells this project the way I imagine it to be. Nonetheless, self doubt is very useful in this early stage of the project, and the decision to move on to the implementation has been made, unless something changes!
 
 Arachnefs is meant to be the ultimate file system, or rather the ultimate file system middleware, for personal use.
 
@@ -50,7 +43,7 @@ The following **FAQ** is a **TL;DR** version of our description for what this is
 
 >> Q: Does it support redundancy (if a disk fails data is read from another disk)?
 
-> A: Yes, it is highly available and automatically syncing
+> A: Yes, it is highly available and automatically syncing and so it also acts as automatic backup
 
 >> Q: And how is this project new?
 
@@ -96,17 +89,17 @@ The following **FAQ** is a **TL;DR** version of our description for what this is
 
 > A: Practically? Infinite. But you only get the very recent changes, which is controlled by a configurable time limit
 
+>> Q: Is that all?
+
+> A: Elaborating on combining data sources, you may keep some data locally while having some other data remote-only
+
 >> Q: Are all these implemented?
 
 > A: Not at the time of writing of this document
 
 >> Q: And then, why bother write this?
 
-> A: To aid the implementation process
-
->> Q: Is there a roadmap?
-
-> A: One is being planned for version 1
+> A: To aid the implementation process, which will start with a version 1
 
 >> Q: Will all the above features be included version 1?
 
@@ -114,7 +107,7 @@ The following **FAQ** is a **TL;DR** version of our description for what this is
 
 >> Q: Are you ([the author](https://github.com/kkontosis)) a disturbed person?
 
-> A: Yes, you can clearly see that I'm conversing with myself :)
+> A: Yes, you can clearly see that I'm conversing with myself :) but this is for the good of this project
 
 ## Long version
 
