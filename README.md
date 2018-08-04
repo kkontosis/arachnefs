@@ -41,9 +41,9 @@ The following **FAQ** is a **TL;DR** version of our description for what this is
 
 > A: By utilizing remote or external space
 
->> Q: Does it support redundancy (if a disk fails data is read from another disk)?
+>> Q: Then, why not use that space directly?
 
-> A: Yes, it is highly available and automatically syncing and so it also acts as automatic backup
+> A: Because it supports redundancy (if a disk fails data is read from another disk), in other words, is highly available. It syncs data automatically when the sources are connected, with no user action. This way it also acts as an automated backup.
 
 >> Q: And how is this project new?
 
@@ -53,21 +53,17 @@ The following **FAQ** is a **TL;DR** version of our description for what this is
 
 > A: You can use more proximate hard disks which are way faster
 
->> Q: Is that all?
+>> Q: Ok, but at what tradeoff? Would you lose the benefits of a remote cloud system like reliability?
 
 > A: No, you still get the benefits of a remote cloud storage by adding one as a backup source
 
 >> Q: All of the benefits?
 
-> A: Yes, the ones regarding private data use
+> A: Yes, the ones regarding private data use. You will have synchronization between multiple computers, and you can even have that via the internet, via a local network, or even via external drives
 
->> Q: Even synchronization between multiple computers?
+>> Q: What else does this project do besides the speed improvement?
 
-> A: You can have that via the internet, via a local network, or even via external drives
-
->> Q: What else does this project do besides the speed improvement
-
-> A: You can work offline too
+> A: You can work offline too, so you additionally get a cut of the cost of having to work with a constant, never-breaking internet connection that would be imposed by a cloud solution
 
 >> Q: Other projects do this as well
 
